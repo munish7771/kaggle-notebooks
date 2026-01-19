@@ -1,0 +1,12 @@
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (optional, but often good to ignore large checkpoints)
+results/pretrained_encoder.pth
